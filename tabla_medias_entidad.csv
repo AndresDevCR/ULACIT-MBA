@@ -1,0 +1,6 @@
+tipo_entidad,mean,std,count
+Banco privado,3.61,1.26,46
+Banco público,3.5,1.26,16
+Cooperativa de ahorro y crédito,3.93,1.16,15
+Entidad financiera no bancaria,3.67,1.28,21
+Mutual,3.78,1.04,23

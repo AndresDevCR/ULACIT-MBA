@@ -1,0 +1,7 @@
+Hipótesis,Variable,Método,r,p-valor,Dirección esperada,Dirección observada,n,alpha_holm,p<alpha_holm,Decisión
+H1,V1. Adopción temprana,Spearman,0.091,0.3191,positiva,positiva,121,0.0125,False,No se acepta
+H2,V2. Lentitud estructural,Spearman,0.176,0.0532,negativa,positiva,121,0.01,False,No se acepta
+H3,V3. Prácticas modernas,Spearman,0.04,0.6644,positiva,positiva,121,0.05,False,No se acepta
+H4,V4. Arquitectura empresarial,Spearman,-0.042,0.6469,positiva,negativa,121,0.025,False,No se acepta
+H5,V5. Cuellos de botella,Spearman,-0.23,0.0113,negativa,negativa,121,0.0083,False,No se acepta
+H6,V6. Talento técnico,Spearman,-0.056,0.5413,positiva,negativa,121,0.0167,False,No se acepta

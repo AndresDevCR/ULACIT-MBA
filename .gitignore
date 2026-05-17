@@ -1,0 +1,15 @@
+# Generated thesis outputs and local working files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.lot
+*.toc
+*.pdf
+*.docx
+*.tex
+*.md
+*.png
+.DS_Store
+figuras/
+instrumentos/

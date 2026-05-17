@@ -1,0 +1,7 @@
+,V1. Adopción temprana,V2. Lentitud estructural,V3. Prácticas modernas,V4. Arquitectura empresarial,V5. Cuellos de botella,V6. Talento técnico
+V1. Adopción temprana,1.0,-0.156,0.289,0.159,-0.175,-0.1
+V2. Lentitud estructural,-0.156,1.0,-0.207,-0.185,0.081,-0.187
+V3. Prácticas modernas,0.289,-0.207,1.0,0.307,-0.088,-0.041
+V4. Arquitectura empresarial,0.159,-0.185,0.307,1.0,-0.026,0.013
+V5. Cuellos de botella,-0.175,0.081,-0.088,-0.026,1.0,0.114
+V6. Talento técnico,-0.1,-0.187,-0.041,0.013,0.114,1.0
