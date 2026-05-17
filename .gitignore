@@ -4,12 +4,15 @@
 *.fls
 *.log
 *.lot
+*.synctex.gz
 *.toc
 *.pdf
 *.docx
 *.tex
-*.md
 *.png
 .DS_Store
 figuras/
 instrumentos/
+tesis_completa.md
+tesis_final.md
+avance1_semana4.md
